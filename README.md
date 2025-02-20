@@ -94,3 +94,7 @@ Cada contribución será utilizada para el desarrollo del proyecto y la expansi�
 ---
 
 ¡Estamos emocionados de tenerte con nosotros en esta aventura! Si tienes alguna pregunta, no dudes en unirte a nuestra comunidad en **Reddit** o contactarnos directamente a través de **Twitter**.
+
+---
+
+© 2025 TUXNetwork. Bajo licencia GPLv3
