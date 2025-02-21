@@ -1,100 +1,96 @@
-# TUXNetwork - Blockchain Eco-Friendly sin Comisiones
-
-[![TUXNetwork](https://img.shields.io/badge/TUXNetwork-Eco--Friendly--Blockchain-green)](https://www.reddit.com/r/TUXNetwork/)  
-[![Follow us on Twitter](https://img.shields.io/badge/Follow--us--on--Twitter--CryptoTuxio-blue)](https://x.com/CryptoTuxio)
-
-TUXNetwork es una blockchain de **capa 1** que utiliza un modelo híbrido de **Prueba de Trabajo Lite (PoW Lite)** y **Prueba de Participación (PoS)** para proporcionar transacciones **100% sin comisiones**, máxima **seguridad** e **impacto ambiental mínimo**. Su criptomoneda nativa, **TUXCoin**, está diseñada para ser **deflacionaria** y **escalable**.
-
-### 🚀 **ÚNETE AL PROYECTO**
-
-Contribuye al desarrollo, participa en la comunidad, o simplemente acompáñanos en este viaje revolucionario hacia una blockchain sin comisiones y con un impacto ecológico mínimo.
-
-[🔗 Únete a nuestra comunidad en Reddit](https://www.reddit.com/r/TUXNetwork/)  
-[🔗 Síguenos en Twitter](https://x.com/CryptoTuxio)
+# TUXNetwork
+**Tarifas Cero, Máxima Seguridad, Blockchain Sostenible**  
+![Estado del Proyecto](https://img.shields.io/badge/Estado-Planning%20%26%20Funding-brightgreen)  
+![Progreso](https://img.shields.io/badge/Progreso-10%25-blue)  
+![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow)
 
 ---
 
-### 📊 **Roadmap del Proyecto**
+## ¿Qué es TUXNetwork?
+TUXNetwork es un **blockchain de capa 1** diseñado para transformar las finanzas descentralizadas con **transacciones sin costo**, **seguridad robusta** y un enfoque **ecológico**. Utilizando un consenso híbrido de Prueba de Trabajo Ligera (PoW Lite con Cuckoo Cycle) y Prueba de Participación (PoS), TUXNetwork elimina las altas tarifas y reduce el consumo energético en un 95% comparado con Bitcoin. Su token nativo, **TUX**, impulsa una economía deflacionaria con una oferta fija de 100 millones.
 
-**Fase 1: Testnet (Q3 2025)**  
-- **Julio:** Lanzamiento del MVP en Replit con 10 nodos iniciales  
-- **Agosto:** Airdrop y recompensas para los primeros 1,000 usuarios  
-- **Septiembre:** Integración con wallets y herramientas externas  
-
-**Fase 2: Mainnet y Crecimiento (Q4 2025 - Q1 2026)**  
-- **Octubre:** Auditoría de seguridad  
-- **Noviembre:** Lanzamiento de Mainnet  
-- **Diciembre:** Listado en Exchanges
-
-**Fase 3: Escalabilidad Global (Q2 2026 - Q4 2026)**  
-- **Abril:** Implementación de Sharding y 400 TPS  
-- **Julio:** Implementación de Layer-2 con ZK-Rollups
-
-**Fase 4: Expansión Masiva (2027+)**  
-- **TUX Debit Cards:** Tarjetas Visa/Mastercard para gastar TUXCoin  
-- **TUX Identity:** Sistema de identidad descentralizado
+### Características Principales
+- **Transacciones Gratuitas:** Sin tarifas, solo requiere apostar 100 TUX por dirección (límite de 50 tx/día).
+- **Eficiencia Energética:** ~50 kWh por transacción vs. ~1,173 kWh de Bitcoin.
+- **Seguridad Híbrida:** Resistencia a ataques del 51% mediante PoW Lite y PoS.
+- **Tokenomics Deflacionarios:** Halving cada 8 años y quema mensual del 40% del fondo de desarrollo.
 
 ---
 
-### 🛠 **Cómo Puedes Contribuir**
-
-El proyecto está en sus primeras etapas de planificación, y actualmente soy el único desarrollador. Si eres un **desarrollador, diseñador o entusiasta de blockchain**, ¡te invito a contribuir y ser parte del crecimiento de TUXNetwork!
-
-- **Desarrolladores:** Ayúdanos a crear el código base y aportar nuevas ideas y funcionalidades.  
-- **Marketing:** Ayúdanos a difundir el proyecto en las redes sociales y atraer a más personas.  
-- **Inversores:** Si crees en la visión de TUXNetwork, considera hacer una donación para apoyar el desarrollo del proyecto.
+## Estado Actual
+TUXNetwork está en fase de **planificación y financiación** (10% de completitud). Estamos trabajando hacia el lanzamiento de la testnet en julio 2025. Consulta nuestra  [Hoja de Ruta](https://github.com/MrTuxio/TUXNetwork/blob/main/Whitepaper.md#6-hoja-de-ruta) para más detalles.
 
 ---
 
-### 💡 **¿Por Qué TUXNetwork?**
+## Tokenomics
+- **Token:** TUX  
+- **Suministro Total:** 100,000,000 TUX  
+- **Recompensa por Bloque:** 10 TUX (8 para mineros, 2 para validadores)  
+- **Fondo de Desarrollo:** 0.5 TUX/bloque, con 40% quemado mensualmente  
+- **Halving:** Cada 8 años  
+- **Emisión Inicial:** 525,600 TUX/año  
 
-- **Transacciones Sin Comisiones:** El stake es obligatorio para evitar el spam y garantizar transacciones gratuitas.  
-- **Bajo Consumo Energético:** Gracias a nuestro consenso híbrido PoW Lite/PoS, TUXNetwork es un 99% más eficiente que Bitcoin en términos de energía.  
-- **Tokenomics Deflacionarios:** Con una política de quema mensual y halving cada 4 años, TUXCoin tiene un suministro limitado que garantiza la apreciación de su valor a largo plazo.  
-- **Impacto Ambiental:** TUXNetwork consume solo 50 kWh por transacción, comparado con los 4,000,000 kWh de Bitcoin (estimaciones iniciales basadas en proyecciones de rendimiento futuro).
-
----
-
-### 🏗 **Estado del Proyecto**
-
-| **Progreso**          |                                                          |
-|-----------------------|----------------------------------------------------------|
-| **Desarrollo Actual** | **10%** completado - Actualmente en la fase de planificación y financiamiento. |
-| **Auditoría**         | **0%** - Se planea para octubre de 2025. |
-| **Mainnet**           | **0%** - Se planea para noviembre de 2025. |
+Lee más en nuestro [Whitepaper](https://github.com/MrTuxio/TUXNetwork/blob/main/Whitepaper.md).
 
 ---
 
-### 💰 **Donaciones y Apoyo**
+## Hoja de Ruta
+| Fase                  | Fecha Estimada      | Hitos                                                                 |
+|-----------------------|---------------------|----------------------------------------------------------------------|
+| Fase 1: Lanzamiento Inicial | Q3 2025       | Testnet (julio), airdrop (agosto), integración de carteras (septiembre). |
+| Fase 2: Mainnet       | Q4 2025 - Q1 2026 | Auditoría (octubre), mainnet (noviembre), exchanges (diciembre).   |
+| Fase 3: Escalabilidad | Q2 - Q4 2026      | Sharding (400 TPS, abril), ZK-Rollups (10,000 TPS, julio), DAO (octubre). |
+| Fase 4: Adopción Masiva | 2027+         | Tarjetas de débito TUX, identidad descentralizada, iniciativas verdes. |
 
+---
+
+## ¿Cómo Contribuir?
+¡Únete a la revolución de TUXNetwork! Aquí hay formas de participar:
+1. **Desarrollo:** Revisa nuestro [Whitepaper](https://github.com/MrTuxio/TUXNetwork/blob/main/Whitepaper.md) y aporta ideas o código.
+2. **Feedback:** Abre un issue con sugerencias o preguntas.
+3. **Comunidad:** Síguenos en [Twitter](https://twitter.com/CryptoTuxio) y únete a nuestro [Discord](#) (próximamente).
+
+### Requisitos para Contribuir
+- Conocimiento básico de blockchain, PoW/PoS o programación (Python, Rust, etc.).
+- Pasión por la descentralización y la sostenibilidad.
+
+---
+
+## **Donaciones y Apoyo**
 Si deseas apoyar al proyecto, puedes hacerlo a través de donaciones a la wallet de TUXNetwork:
 
 **Dirección de Wallet:**  
 `bc1q7lwcce5r62qd2tcw5ucv6h2us986lh0nz0wttm`
 
-Cada contribución será utilizada para el desarrollo del proyecto y la expansión de TUXNetwork. ¡Gracias por ser parte de esta revolución blockchain!
+---
+
+## Instalación (Próximamente)
+Actualmente no hay código disponible para instalar, pero planeamos lanzar un prototipo básico para la testnet en julio 2025. Mantente atento a este repositorio para actualizaciones.
+
+```bash
+# Ejemplo placeholder para el futuro
+git clone https://github.com/MrTuxio/TUXNetwork.git
+cd TUXNetwork
+# Instrucciones TBD
+```
 
 ---
 
-### 🌱 **Impacto Ambiental:**
-
-| **Blockchain** | **Energía por Tx (kWh)** | **Emisiones CO2/año (equiv.)** |
-|----------------|--------------------------|---------------------------------|
-| **Bitcoin**    | 4,000,000                | 60,000,000 toneladas            |
-| **Ethereum**   | 600,000                  | 1,000,000 toneladas             |
-| **TUXNetwork** | 50 (Estimaciones)        | 100 toneladas (Estimaciones)   |
+## Licencia
+Este proyecto está bajo la [Licencia GPLv3](LICENSE). Siéntete libre de usarlo, modificarlo y distribuirlo según los términos de la licencia.
 
 ---
 
-**Recursos Adicionales:**  
-- [Código Fuente en GitHub](https://github.com/MrTuxio/TUXNetwork) *(próximamente disponible)*  
-- [Explorador de Bloques en TUXScan](https://github.com/MrTuxio/TUXNetwork) *(próximamente disponible)*  
-- [Documentación Completa](https://github.com/MrTuxio/TUXNetwork)*(próximamente disponible)*  
+## Contacto
+- **GitHub:** [MrTuxio](https://github.com/MrTuxio)
+- **Twitter:** [@CryptoTuxio](https://twitter.com/CryptoTuxio)
+- **Discord:** (TBD - añade el enlace cuando lo crees)
 
 ---
 
-¡Estamos emocionados de tenerte con nosotros en esta aventura! Si tienes alguna pregunta, no dudes en unirte a nuestra comunidad en **Reddit** o contactarnos directamente a través de **Twitter**.
+**"Construyamos un futuro descentralizado, accesible y sostenible juntos."**  
+— MrTuxio, Fundador de TUXNetwork
 
 ---
 
-© 2025 TUXNetwork. Bajo licencia GPLv3
+© 2025 TUXNetwork.
