@@ -13,24 +13,23 @@ TUXNetwork es un **blockchain de capa 1** diseñado para transformar las finanza
 - **Transacciones Gratuitas:** Sin tarifas, solo requiere apostar 100 TUX por dirección (límite de 50 tx/día).
 - **Eficiencia Energética:** ~50 kWh por transacción vs. ~1,173 kWh de Bitcoin.
 - **Seguridad Híbrida:** Resistencia a ataques del 51% mediante PoW Lite y PoS.
-- **Tokenomics Deflacionarios:** Halving cada 8 años y quema mensual del 40% del fondo de desarrollo.
+- **Tokenomics Deflacionarios:** Halving cada 8 años y quema mensual del 50% del fondo de desarrollo.
 
 ---
 
 ## Estado Actual
-TUXNetwork está en fase de **planificación y financiación** (10% de completitud). Estamos trabajando hacia el lanzamiento de la testnet en julio 2025. Consulta nuestra  [Hoja de Ruta](https://github.com/MrTuxio/TUXNetwork/blob/main/Whitepaper.md#6-hoja-de-ruta) para más detalles.
+TUXNetwork está en fase de **planificación y financiación** (10% de completitud). Estamos trabajando hacia el lanzamiento de la testnet en julio 2025. Consulta nuestro [Hoja de Ruta](https://github.com/MrTuxio/TUXNetwork/blob/main/Whitepaper.md#6-hoja-de-ruta) en el whitepaper para más detalles.
 
 ---
 
 ## Tokenomics
 - **Token:** TUX  
 - **Suministro Total:** 100,000,000 TUX  
-- **Recompensa por Bloque:** 10 TUX (8 para mineros, 2 para validadores)  
-- **Fondo de Desarrollo:** 0.5 TUX/bloque, con 40% quemado mensualmente  
+- **Recompensa por Bloque:** 10 TUX (7 para mineros, 2 para validadores, 1 para desarrollo)  
+- **Fondo de Desarrollo:** 0.5 TUX/bloque tras quema mensual del 50%.  
 - **Halving:** Cada 8 años  
 - **Emisión Inicial:** 525,600 TUX/año  
-
-Lee más en nuestro [Whitepaper](https://github.com/MrTuxio/TUXNetwork/blob/main/Whitepaper.md).
+**Financiamiento:** Un pequeño preminado y fondo de desarrollo sostienen el proyecto. Detalles en el [Whitepaper](https://github.com/MrTuxio/TUXNetwork/blob/main/Whitepaper.md).
 
 ---
 
