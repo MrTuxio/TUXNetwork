@@ -2,7 +2,7 @@
 **Tarifas Cero, Máxima Seguridad, Blockchain Sostenible**  
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Planning%20%26%20Funding-brightgreen)  
 ![Progreso](https://img.shields.io/badge/Progreso-10%25-blue)  
-![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow)
+![Licencia](https://img.shields.io/badge/Licencia-GPLv3-yellow)
 
 ---
 
